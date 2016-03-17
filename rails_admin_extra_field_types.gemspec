@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminExtraFieldTypes::VERSION
   s.authors     = ["wiseallie"]
   s.email       = ["wiseallie@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminExtraFieldTypes."
-  s.description = "TODO: Description of RailsAdminExtraFieldTypes."
+  s.homepage    = "https://github.com/wiseallie/rails_admin_extra_field_types"
+  s.summary     = "Support for rails_admin field types UUID and Citext "
+  s.description = "Support for rails_admin field types UUID and Citext "
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
